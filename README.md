@@ -20,20 +20,11 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **JavaScript / React / Backend**
-- ⚡ Fun fact: I love building clean UI & solving problems
-- 🎯 Goal: Become a professional full-stack developer
-
----
-
-### 🛠️ 
+ 
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
 </p> -->
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
