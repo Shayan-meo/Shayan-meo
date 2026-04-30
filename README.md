@@ -24,13 +24,7 @@
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shayan-meo&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan-meo&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shayan-meo&show_icons=true&theme=tokyonight&cache_seconds=0" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight" />
