@@ -11,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight" />
 </p>
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan-meo&theme=tokyonight" />
 </p>
-
