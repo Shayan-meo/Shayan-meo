@@ -16,9 +16,6 @@
   Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40"/> I'm Shayan Meo
 </h1>
 
-<h3 align="center">💻 Passionate Developer | 🚀 Learning & Building Everyday</h3>
-
----
 
  
 <!-- <p align="center">
