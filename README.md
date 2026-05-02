@@ -11,8 +11,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username= Shayan-meo &show_icons=true&theme=tokyonight&count_private=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shayan-meo&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=10" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight" />
