@@ -4,15 +4,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shayan-meo&show_icons=true&theme=tokyonight&cache_seconds=0" />         
+<img src="https://github-readme-stats.vercel.app/api?username=Shayan-meo&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />         
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan-meo&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Shayan-meo&theme=tokyonight" />
 </p>
-
-
