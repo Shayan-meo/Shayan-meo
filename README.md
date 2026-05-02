@@ -2,9 +2,9 @@
   Hi 👋 I'm Shayan Meo
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   💻 Frontend Developer | 🚀 Learning JavaScript & Web Development
-</p>
+</p> -->
 
 ---
 
