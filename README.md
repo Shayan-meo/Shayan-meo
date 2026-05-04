@@ -15,9 +15,9 @@
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Shayan-meo&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=10" /></p> -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+;Frontend+Developer;JavaScript+Learner;Welcome+to+my+GitHub" />
-</p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Shayan-meo;Frontend+Developer;JavaScript+Learner;Welcome+to+my+GitHub" />
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight" />
