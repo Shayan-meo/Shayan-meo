@@ -21,11 +21,11 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayan-meo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameen-Alam&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shayan-meo&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Ameen-Alam&theme=tokyonight" />
 </p>
 
 ---
