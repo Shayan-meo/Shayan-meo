@@ -7,6 +7,7 @@
   💻 Frontend Developer | 🚀 Learning JavaScript & Web Development
 </p> -->
 
+<!--Topics: Execution Context • Call Stack • Hoisting • TDZ • Scope • Closures • Functions • var/let/const • IIFE • Callbacks
 
 ---
 
